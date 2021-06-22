@@ -1,0 +1,16 @@
+h2 {
+    text-align: center;
+}
+
+#cadastrar {
+    width: 100%;
+}
+
+.table tr {
+    text-align: center;
+}
+
+
+/* .table tr :nth-child(n+2):nth-child(-n+2) {
+    text-align: center;
+} */
