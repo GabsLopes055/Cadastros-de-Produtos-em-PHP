@@ -9,6 +9,7 @@ $(document).ready(function () {
         event.preventDefault();
         console.log(numero_nota, nome_produto, fornecedor, quantidade, valor_unitario);
 
+        console.log('teste');
 
         $.ajax({
             url: '../Modal/cadastrar_produto_modal.php',
